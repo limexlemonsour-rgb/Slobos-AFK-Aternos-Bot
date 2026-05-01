@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dihhSMP-CumW.aternos.me:37318",
+    "ip": "dihhSMP-CumW.aternos.me",
     "port": 37318,
     "version": "",
     "try-creative": false
